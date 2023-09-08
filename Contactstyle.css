@@ -1,0 +1,190 @@
+/* Nikioly Miti Franco
+ch4 - apply
+Monday, March 13,2023
+Page 217-218
+*/
+
+body, header, nav , main, footer, img, h1, h3 {
+margin:0;
+padding:0;
+border:0;
+}
+header{
+    display: inline-block;
+    width: 100%;
+    background-color: #ffffff;
+    color: #000000;
+    text-align: center;
+    
+    
+}
+
+header p {
+    margin-top: 0px;
+    font-size: 23px;
+    background-color: #ffffff;
+    width: 45%;
+    text-align: center;
+    margin-left: 28%;
+}
+body{
+    background-color:  #ffffffba;
+}
+
+
+
+
+
+h1 {
+    
+    margin-top: 50px;
+    text-align: center;
+    font-size: 3em;
+    font-family:Verdana, Arial, sans-serif; ;
+    padding: 2%;
+    color: #101a2d;
+    background-color: #ffffff;
+
+}
+
+
+nav{
+    background-color:  #263529;
+    color: #000000;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    text-align: center;
+    background-color: #d47d7d;
+    padding: 0;
+}
+
+nav li{
+    display: inline-block;
+    margin: 0 10px;
+    font-family: Verdana, Arial, sans-serif;
+    font-weight: bold;
+}
+
+nav li a{
+    display: block;
+    color: #e3eaf8;
+    padding-top:0.5em;
+    padding-bottom: 0.5em;
+    padding-left: 2em;
+    padding-right: 2em ;
+    text-decoration: none;
+    
+    
+}
+
+nav a:hover{
+    background-color: #000000;
+}
+
+
+
+main{
+    padding: 2%;
+    font-family: Geneva, Arial, sans-serif;
+    overflow: auto;
+   
+}
+
+p{
+    font-size: 1.25em;
+}
+
+h3{
+    padding-left: 20%;
+    font-size: 2em;
+    text-align: left;
+    color: #ffffff;
+    
+
+    
+}
+
+
+ul{
+   
+    color: #ffffff;
+    text-align: center;
+    background-color: #d47d7d;
+
+}
+
+h4{
+    font-size: 125%;
+    margin-bottom: 5px;
+}
+.social-link{
+    color: #ffffff;
+}
+h5{
+    font-size: 125%;
+    margin-bottom: 5px;
+}
+h6{
+    font-size: 125%;
+    margin-bottom: 5px;
+}
+.moving{
+float: right;
+margin: 0%;
+padding: 0%;
+
+
+}
+.moving img {
+    width: 700px; 
+    height: 514px;
+    
+   
+    
+}
+.image{
+    width: 45%;
+    float: left;
+    padding: 1%;
+}
+
+.group{
+width: 45%;
+float: left;
+
+
+
+
+}
+
+.external{
+    color: #1d396d;
+    text-decoration: none;
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+
+footer{
+font-size: 0.85em;
+background-color: #ffffff;
+color: #000000;
+padding-top: 1%;
+padding-bottom: 1%;
+padding-left: 0%;
+padding-right: 0%;
+}
+
+footer a{
+color: #e3eaf8;
+text-decoration: none;
+}
+
+@media screen and (max-width: 768px) {
+}
