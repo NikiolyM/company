@@ -121,9 +121,11 @@ body, header, nav , main, footer, img, h1, h3 {
     
     }
     
-    h4{
-        font-size: 125%;
-        margin-bottom: 5px;
+     h4{
+        padding-left: 15%;
+        font-size: 2em;
+        text-align: left;
+        color: #ffffff;
     }
     .social-link{
         color: #ffffff;
@@ -133,8 +135,10 @@ body, header, nav , main, footer, img, h1, h3 {
         margin-bottom: 5px;
     }
     h6{
-        font-size: 125%;
-        margin-bottom: 5px;
+        font-size: 2em;
+       text-align: center;
+        color: #ffffff;
+        
     }
     .moving{
     float: right;
